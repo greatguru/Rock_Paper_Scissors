@@ -52,7 +52,7 @@ ASCII art representations of game elements:
 
 ## How to Play
 
-1. Run the Python script `rps_game.py`.
+1. Run the Python script `Rock_paper_scissors_code`.
 2. Enter your choice:
    - Type `0` for Rock
    - Type `1` for Paper
@@ -69,4 +69,4 @@ ASCII art representations of game elements:
 No special installation is required. Simply ensure you have Python installed on your machine.
 
 ```bash
-python rps_game.py
+python Rock_paper_scissors_code
